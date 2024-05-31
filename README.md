@@ -49,6 +49,8 @@ A web application connected to a MongoDB database, designed with Angular, React,
 - **Creación de una Página Web para un Concurso de Innovación del TECNM Campus Aguascalientes**
   - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
   - Awarded first place in the competition
+- **Implementación de Medidas de Ciberseguridad en un Despacho Jurídico**
+  - Implementing cybersecurity measures in a legal firm
 
 ## 📊 GitHub Stats
 

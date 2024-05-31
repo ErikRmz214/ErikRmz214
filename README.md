@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ErikRmz214&color=brightgreen) [![Follow](https://img.shields.io/github/followers/ErikRmz214?label=Follow&style=social)](https://github.com/ErikRmz214) [![Stars](https://img.shields.io/github/stars/ErikRmz214?style=social)](https://github.com/ErikRmz214)
 
-Welcome to my GitHub profile! I am a student at the Instituto Tecnologico de Aguascalientes pursuing a degree in [Nombre de tu Carrera]. I am also a passionate developer with a diverse set of skills in web and software development.
+Welcome to my GitHub profile! I am a student at the Tecnológico Nacional de México, campus Aguascalientes, pursuing a degree in Information and Communication Technologies Engineering. I am passionate about learning new things and excel in teamwork. I am efficient, effective, and responsible, with a quick learning curve. I enjoy tackling challenges and am proactive in finding solutions when faced with obstacles. Staying updated with the latest trends in my field is important to me, and I thrive on new challenges.
 
 ## 🛠️ Technologies & Tools
 
@@ -32,14 +32,32 @@ A project that showcases my ability to create captivating user interfaces and ma
 
 ## 📫 Contact
 
-- [LinkedIn](enlace_a_tu_linkedin)
-- [Correo Electrónico](mailto:tu_email@example.com)
-- [Sitio Web Personal](enlace_a_tu_sitio_web)
+- **Celular:** (+52) 449-213-10-65
+- **Correo Electrónico:** erik.alj73@gmail.com
+- **GitHub:** [ErikRmz214](https://github.com/ErikRmz214)
+- **Dirección:** Aguascalientes, Ags.
+
+## 🎓 Education
+
+- **Tecnológico Nacional de México, Campus Aguascalientes**
+  - *Currently pursuing:* Ingeniería en Tecnologías de la Información y Comunicaciones (ITIC)
+  - *Expected Graduation:* 8th Semester (2020)
+
+## 🏆 Experience
+
+- **Negocio Electrónico con Giro en la Venta de Coleccionables**
+  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
+  - Implemented digital payment through PayPal
+- **Creación de Página Web como Muestrario para un Arquitecto**
+  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
+- **Creación de una Página Web para un Concurso de Innovación del TECNM Campus Aguascalientes**
+  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
+  - Awarded first place in the competition
 
 ## 📊 GitHub Stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ErikRmz214&show_icons=true&theme=radical)
 
-## 🚀 Lenguajes más utilizados
+## 🚀 Lenguajes más Utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikRmz214&layout=compact&theme=radical)
+![Lenguajes más Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikRmz214&layout=compact&theme=radical)

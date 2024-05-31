@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Erik Alejandro Ramirez De Lira]
+# 👋 Hi, I'm Erik Alejandro Ramirez De Lira
 
-![Profile views](https://komarev.com/ghpvc/?username=tu_nombre_de_usuario&color=brightgreen) [![Follow](https://img.shields.io/github/followers/tu_nombre_de_usuario?label=Follow&style=social)](https://github.com/tu_nombre_de_usuario) [![Stars](https://img.shields.io/github/stars/tu_nombre_de_usuario?style=social)](https://github.com/tu_nombre_de_usuario)
+![Profile views](https://komarev.com/ghpvc/?username=ErikRmz214&color=brightgreen) [![Follow](https://img.shields.io/github/followers/ErikRmz214?label=Follow&style=social)](https://github.com/ErikRmz214) [![Stars](https://img.shields.io/github/stars/ErikRmz214?style=social)](https://github.com/ErikRmz214)
 
-Welcome to my GitHub profile! I am a student at [Instituto Tecnologico de Aguascalientes] pursuing a degree in [Ingenieria en Tecnologias de la Informacion y Comunicaciones.]. I am also a passionate developer with a diverse set of skills in web and software development.
+Welcome to my GitHub profile! I am a student at the Instituto Tecnologico de Aguascalientes pursuing a degree in [Nombre de tu Carrera]. I am also a passionate developer with a diverse set of skills in web and software development.
 
 ## 🛠️ Technologies & Tools
 
@@ -21,13 +21,13 @@ Welcome to my GitHub profile! I am a student at [Instituto Tecnologico de Aguasc
 
 ## 🌟 Featured Projects
 
-### [Movie Mads Frontend & Backend](https://github.com/tu_nombre_de_usuario/movie-mads)
+### [Movie Mads Frontend & Backend](https://github.com/ErikRmz214/movie-mads)
 A complete application created with React and Laravel. This application allows users to book tickets for movie screenings, with user authentication, real-time data updates, and a user-friendly design.
 
-### [InventiKS](https://github.com/tu_nombre_de_usuario/inventiks)
+### [InventiKS](https://github.com/ErikRmz214/inventiks)
 An inventory management application developed using Laravel, MySQL, and React. This project demonstrates my skills in full-stack development, including front-end technologies and back-end management with database integration. It features product management, stock control, and reporting functionalities.
 
-### [Cap-tivante](https://github.com/tu_nombre_de_usuario/cap-tivante)
+### [Cap-tivante](https://github.com/ErikRmz214/cap-tivante)
 A project that showcases my ability to create captivating user interfaces and manage data efficiently. Built with HTML, CSS, JavaScript, and MySQL, this application helps users to manage and visualize data with ease.
 
 ## 📫 Contact
@@ -38,8 +38,8 @@ A project that showcases my ability to create captivating user interfaces and ma
 
 ## 📊 GitHub Stats
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ErikRmz214&show_icons=true&theme=radical)
 
 ## 🚀 Lenguajes más utilizados
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=compact&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikRmz214&layout=compact&theme=radical)

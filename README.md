@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Erik Alejandro Ramirez De Lira
+# 👋 Hola, soy Erik Alejandro Ramírez De Lira
 
-![Profile views](https://komarev.com/ghpvc/?username=ErikRmz214&color=brightgreen) [![Follow](https://img.shields.io/github/followers/ErikRmz214?label=Follow&style=social)](https://github.com/ErikRmz214) [![Stars](https://img.shields.io/github/stars/ErikRmz214?style=social)](https://github.com/ErikRmz214)
+![Vistas de perfil](https://komarev.com/ghpvc/?username=ErikRmz214&color=brightgreen) [![Seguir](https://img.shields.io/github/followers/ErikRmz214?label=Seguir&style=social)](https://github.com/ErikRmz214) [![Estrellas](https://img.shields.io/github/stars/ErikRmz214?style=social)](https://github.com/ErikRmz214)
 
-Welcome to my GitHub profile! I am a student at the Tecnológico Nacional de México, campus Aguascalientes, pursuing a degree in Information and Communication Technologies Engineering. I am passionate about learning new things and excel in teamwork. I am efficient, effective, and responsible, with a quick learning curve. I enjoy tackling challenges and am proactive in finding solutions when faced with obstacles. Staying updated with the latest trends in my field is important to me, and I thrive on new challenges.
+¡Bienvenido a mi perfil de GitHub! Soy estudiante del Tecnológico Nacional de México, campus Aguascalientes, cursando la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones. Soy apasionado por aprender cosas nuevas y destacar en el trabajo en equipo. Soy eficiente, efectivo y responsable, con una rápida curva de aprendizaje. Disfruto enfrentando desafíos y soy proactivo en la búsqueda de soluciones cuando me encuentro con obstáculos. Mantenerme actualizado con las últimas tendencias en mi campo es importante para mí, y prospero ante nuevos desafíos.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y Herramientas
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -24,38 +24,38 @@ Welcome to my GitHub profile! I am a student at the Tecnológico Nacional de Mé
 </p>
 
 
-## 🌟 Featured Projects
+## 🌟 Proyectos Destacados
 
 ### [Predicción del Precio de Gasolina](https://github.com/ErikRmz214/prediccion-precio-gasolina)
-A web application connected to a MongoDB database, designed with Angular, React, JSON, and integration of APIs. The purpose of this project is to predict the price of a gallon of gasoline within the current year up to 50 years in the future. It provides price predictions for any state in Mexico and for both premium and regular octane levels.
+Una aplicación web conectada a una base de datos MongoDB, diseñada con Angular, React, JSON e integración de APIs. El propósito de este proyecto es predecir el precio de un litro de gasolina dentro del año actual hasta 50 años en el futuro. Proporciona predicciones de precios para cualquier estado de México y para niveles de octanaje premium y regular.
 
-## 📫 Contact
+## 📫 Contacto
 
 - **Celular:** (+52) 449-213-10-65
 - **Correo Electrónico:** erik.alj73@gmail.com
 - **GitHub:** [ErikRmz214](https://github.com/ErikRmz214)
 - **Dirección:** Aguascalientes, Ags.
 
-## 🎓 Education
+## 🎓 Educación
 
 - **Tecnológico Nacional de México, Campus Aguascalientes**
-  - *Currently pursuing:* Ingeniería en Tecnologías de la Información y Comunicaciones (ITIC)
-  - *Expected Graduation:* 8th Semester (2020)
+  - *Actualmente cursando:* Ingeniería en Tecnologías de la Información y Comunicaciones (ITIC)
+  - *Graduación esperada:* 8vo Semestre (2020)
 
-## 🏆 Experience
+## 🏆 Experiencia
 
-- **Negocio Electrónico con Giro en la Venta de Coleccionables**
-  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
-  - Implemented digital payment through PayPal
-- **Creación de Página Web como Muestrario para un Arquitecto**
-  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
-- **Creación de una Página Web para un Concurso de Innovación del TECNM Campus Aguascalientes**
-  - Developed with Bootstrap, HTML 5, CSS 3, JavaScript
-  - Awarded first place in the competition
-- **Implementación de Medidas de Ciberseguridad en un Despacho Jurídico**
-  - Implementing cybersecurity measures in a legal firm
+- **Negocio Electrónico con Enfoque en la Venta de Coleccionables**
+  - Desarrollado con Bootstrap, HTML 5, CSS 3, JavaScript
+  - Implementación de pago digital a través de PayPal
+- **Creación de Página Web como Portafolio para un Arquitecto**
+  - Desarrollado con Bootstrap, HTML 5, CSS 3, JavaScript
+- **Creación de un Sitio Web para un Concurso de Innovación en el TECNM Campus Aguascalientes**
+  - Desarrollado con Bootstrap, HTML 5, CSS 3, JavaScript
+  - Premiado con el primer lugar en la competencia
+- **Implementación de Medidas de Ciberseguridad en un Bufete Jurídico**
+  - Implementación de medidas de ciberseguridad en un despacho jurídico
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ErikRmz214&show_icons=true&theme=radical)
 

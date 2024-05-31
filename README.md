@@ -17,18 +17,14 @@ Welcome to my GitHub profile! I am a student at the Tecnológico Nacional de Mé
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" alt="Spyder" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 </p>
 
 ## 🌟 Featured Projects
 
-### [Movie Mads Frontend & Backend](https://github.com/ErikRmz214/movie-mads)
-A complete application created with React and Laravel. This application allows users to book tickets for movie screenings, with user authentication, real-time data updates, and a user-friendly design.
-
-### [InventiKS](https://github.com/ErikRmz214/inventiks)
-An inventory management application developed using Laravel, MySQL, and React. This project demonstrates my skills in full-stack development, including front-end technologies and back-end management with database integration. It features product management, stock control, and reporting functionalities.
-
-### [Cap-tivante](https://github.com/ErikRmz214/cap-tivante)
-A project that showcases my ability to create captivating user interfaces and manage data efficiently. Built with HTML, CSS, JavaScript, and MySQL, this application helps users to manage and visualize data with ease.
+### [Predicción del Precio de Gasolina](https://github.com/ErikRmz214/prediccion-precio-gasolina)
+A web application connected to a MongoDB database, designed with Angular, React, JSON, and integration of APIs. The purpose of this project is to predict the price of a gallon of gasoline within the current year up to 50 years in the future. It provides price predictions for any state in Mexico and for both premium and regular octane levels.
 
 ## 📫 Contact
 

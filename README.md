@@ -45,8 +45,11 @@
 
 ## 🌟 Proyectos Destacados
 
-### [Predicción del Precio de Gasolina](https://github.com/ErikRmz214/prediccion-precio-gasolina)
-Una aplicación web conectada a una base de datos MongoDB, diseñada con Angular, React, JSON e integración de APIs. El propósito de este proyecto es predecir el precio de un litro de gasolina dentro del año actual hasta 50 años en el futuro. Proporciona predicciones de precios para cualquier estado de México y para niveles de octanaje premium y regular.
+### [Sistema de inspeccion de calidad](https://github.com/ErikRmz214/)
+Una aplicación web conectada a una base de datos PostgreSql, diseñada con React, Node.js usando APIs REST. El propósito de este proyecto es simplificar el trabajo para las empresas que se dedican a inspeccion de calidad, cumple con facturacion tambien y reducir la huella de carbono evitando impresiones innecesarias.
+
+### [Aplicacion mobil Caducados](https://github.com/ErikRmz214/)
+Una aplicación mobil conectada a una base de datos PostgreSql, diseñada con React-native, Node.js usando APIs REST. Esta aplicacion gano un concurso local universitario, gano la primera fase del concurso INFOMATRIX y paso a la fase IBEROAMERICANA celebrada en Gdl. Jalisco, la finalidad de esta aplicacion, es indicar al usuario la fecha de caducidad de todos sus productos cumpliendo con categorias como medicina, alimentos para humano y mascotas, productos de limpieza, productos de belleza, todo producto con fecha de caducidad, cuenta con edicion, eliminar, notificaciones, escaneo Qr, registro manual de producto.
 
 ## 📫 Contacto
 
